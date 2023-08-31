@@ -18,6 +18,7 @@
 - 13、slider的高度和宽度
 
 使用:
+```
 WYUISlider *slider = [[WYUISlider alloc] initWithFrame:CGRectMake(0, 0, 300, 50)];
 slider.laygroundColor = [UIColor blueColor];
 slider.radius = 5;
@@ -35,3 +36,4 @@ slider.thumbHidden = NO;
 slider.touchSliderValueChange = ^(CGFloat value,BOOL isEnd) {
   //isEnd: yes 表示拖动完毕后执行, no 表示拖动连续执行
 }
+```
