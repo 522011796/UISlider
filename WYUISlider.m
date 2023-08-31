@@ -2,7 +2,7 @@
 //  WYUISlider.m
 //  IOT-PRO-NEW
 //
-//  Created by 李凯 on 2023/8/23.
+//  Created by ricky on 2023/8/23.
 //
 #define kBackgroundColor [UIColor grayColor] //默认未滑过颜色
 #define kForegroundColor [UIColor orangeColor] //默认颜色
