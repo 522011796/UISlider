@@ -1,3 +1,7 @@
+<img width="571" alt="image" src="https://github.com/522011796/UISlider/assets/36726234/bbc5d471-ec05-4f65-bcbc-bca80e1960f1">
+
+
+
 # UISlider
 - 1、最小值
 - 2、最大值
